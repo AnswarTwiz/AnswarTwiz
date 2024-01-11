@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnswarTwiz
 - 👀 I’m interested in consistence leaning and travelling 
-- 🌱 I’m currently learning cloud
+- 🌱 I’m currently learning cloud and its application in distributed systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me answar.twizeyimana2@kroger.com
 
