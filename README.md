@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnswarTwiz
 - 🏡 I live in Allen, Texas
 - 👀 I’m interested in consistency leaning and travelling 
-- 🌱 I’m currently learning about cloud and its application in distributed systems
+- 🌱 I’m currently learning about cloud, AI and its application in distributed systems
 - 🗣 I use Java and Golang to express myself
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: answar07@gmail.com
